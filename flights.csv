@@ -1,0 +1,6 @@
+flight_id,flight_number,aircraft_registration,origin_iata,destination_iata,status,airline_code
+F001,AI101,VTABC,DEL,BOM,On Time,AI
+F002,AI102,VTXYZ,BOM,DEL,Delayed,AI
+F003,6E501,VTAAA,DEL,BLR,On Time,6E
+F004,UK201,VTBBB,BLR,MAA,Cancelled,UK
+F005,AI301,VTABC,MAA,DEL,Delayed,AI
