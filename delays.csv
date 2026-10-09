@@ -1,0 +1,5 @@
+airport_iata,delay_date,total_flights,delayed_flights,delay_index,median_delay_min,canceled_flights
+DEL,2026-01-10,120,15,12,18,2
+BOM,2026-01-10,90,10,11,15,1
+BLR,2026-01-10,80,8,10,14,0
+MAA,2026-01-10,75,7,9,12,1
